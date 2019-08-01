@@ -1,3 +1,4 @@
+//ggwp ramdani
 <div class="form-group">
     <label for="exampleInputEmail1">Nama</label>
 <input type="text" name="name" value="{{ old('name') ?? $user->name}}" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Nama" required>
